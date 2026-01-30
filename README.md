@@ -1,10 +1,10 @@
 # TSA Game Design
 TSA Game Design project. 
 Current ideas:
-- A metroidvania/platformer with a few enemies
+- A metroidvania/platformer with a few enemies, it has to be E-rated. 
 - Futuristic setting
 - Gameplay mechanics: double jumps, walljumps, dash, attacks
 
-Development logs:
+Development logs, remember to add this informationg to the work log.:
 - 1/11/2026 (Haoyan): added basic platformer movement, a basic scene tree, a bit of demo terrain. Currently reuses some old tilesets I used to have.
 - 1/18/2026 (Haoyan): added some more mechanics: double jumping, wall jumps, coyote jumps, and made the demonstration level larger
